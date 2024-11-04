@@ -1,4 +1,5 @@
 '''
+ссылка на задания https://metanit.com/python/practice/2.php
 print('Введите год')
 year = int(input())
 if year % 4 == 0 or (year % 400 == 0 and year % 100 == 0):
